@@ -1,0 +1,10 @@
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.UI.resources
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.Properties.Resources.resources
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.csproj.GenerateResource.cache
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\StayAwakeApp\bin\Debug\StayAwakeApp.exe.config
+C:\Users\Notebook\source\repos\StayAwakeApp\bin\Debug\StayAwakeApp.exe
+C:\Users\Notebook\source\repos\StayAwakeApp\bin\Debug\StayAwakeApp.pdb
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.exe
+C:\Users\Notebook\source\repos\StayAwakeApp\obj\Debug\StayAwakeApp.pdb
